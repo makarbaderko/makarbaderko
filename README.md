@@ -41,4 +41,4 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 
 <!-- Actual text -->
 
-You can find me on WhatsApp(https://api.whatsapp.com/send/?phone=79853462382&text&app_absent=0), or on Telegram(https://t.me/makarbaderko).
+You can find me on [WhatsApp](https://api.whatsapp.com/send/?phone=79853462382&text&app_absent=0), or on [Telegram](https://t.me/makarbaderko).
