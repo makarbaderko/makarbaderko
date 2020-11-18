@@ -41,7 +41,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 
 <!-- Actual text -->
 
-You can find me on [![WhatsApp]][1], or on [![Telegram]][3].
+You can find me on WhatsApp[1], or on Telegram[2].
 <!-- Links to your social media accounts -->
 
 [1]: https://api.whatsapp.com/send/?phone=79853462382&text&app_absent=0
