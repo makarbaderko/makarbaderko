@@ -19,7 +19,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/Library-tensorflow-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-Scikit-Learn-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-PyTorch-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Library-XGBoost-Learn-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Library-XGBoost-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-CatBoost-Learn-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-Yolo-Learn-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Technology-Git-Learn-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
