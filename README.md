@@ -16,6 +16,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-tensorflow-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-Scikit-Learn-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-PyTorch-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
