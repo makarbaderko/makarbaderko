@@ -41,7 +41,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 
 <!-- Actual text -->
 
-You can find me on [![WhatsApp][1.2]][1], or on [![Facebook][3.2]][3].
+You can find me on [![WhatsApp]][1], or on [![Facebook]][3].
 
 <!-- Icons -->
 
