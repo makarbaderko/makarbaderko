@@ -37,3 +37,17 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 <a href="https://github.com/makarbaderko/makarbaderko">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=makarbaderko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
+
+
+<!-- Actual text -->
+
+You can find me on [![WhatsApp][1.2]][1], or on [![Facebook][3.2]][3].
+
+<!-- Icons -->
+
+[1.2]: https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png
+[2.2]: https://avatanplus.com/files/resources/original/5817614d3949c1581b5415b3.png
+<!-- Links to your social media accounts -->
+
+[1]: https://api.whatsapp.com/send/?phone=79853462382&text&app_absent=0
+[2]: https://avatanplus.com/files/resources/original/5817614d3949c1581b5415b3.png
