@@ -41,13 +41,8 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 
 <!-- Actual text -->
 
-You can find me on [![WhatsApp]][1], or on [![Facebook]][3].
-
-<!-- Icons -->
-
-[1.2]: https://cdn2.iconfinder.com/data/icons/metro-uinvert-dock/256/Twitter_NEW.png
-[2.2]: https://avatanplus.com/files/resources/original/5817614d3949c1581b5415b3.png
+You can find me on [![WhatsApp]][1], or on [![Telegram]][3].
 <!-- Links to your social media accounts -->
 
 [1]: https://api.whatsapp.com/send/?phone=79853462382&text&app_absent=0
-[2]: https://avatanplus.com/files/resources/original/5817614d3949c1581b5415b3.png
+[2]: t.me/makarbaderko
