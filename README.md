@@ -6,7 +6,7 @@ My name is Makar Baderko, I'm 12 years old and I'm a Data Scientist. I'm from Ru
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://medium.com/@makarbaderko). 
+Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://makarbaderko.medium.com/). 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
