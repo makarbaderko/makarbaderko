@@ -1,5 +1,4 @@
-[![Header](https://ibb.co/Jssnv9j][img]https://i.ibb.co/pLL2fSj/Github-Readme-Header.png)
-
+<a href="https://ibb.co/Jssnv9j"><img src="https://i.ibb.co/pLL2fSj/Github-Readme-Header.png" alt="Github-Readme-Header" border="0"></a>
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Makar Baderko, I'm 13 years old and I'm a Data Scientist. I'm from Russia, living in Moscow and currently studying at the "Vybor" Private School, in the 7th grade and working as a private Computer Science teacher remotely.
