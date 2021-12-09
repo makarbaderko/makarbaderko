@@ -1,4 +1,4 @@
-[![Header](https://i.ibb.co/MSFHH5M/Github-Readme-Header.png "Header")](https://makarbaderko.github.io/)
+[![Header](https://i.ibb.co/MSFHH5M/Github-Readme-Header.png "Header")]
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
