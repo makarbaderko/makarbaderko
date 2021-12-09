@@ -2,11 +2,11 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Makar Baderko, I'm 12 years old and I'm a Data Scientist. I'm from Russia, living in Moscow and currently both studying at the "Vybor" Private School, in the 6th grade and working in Skolkovo Innovation Center as the Head of AI Among Children Development Dept. 
+My name is Makar Baderko, I'm 13 years old and I'm a Data Scientist. I'm from Russia, living in Moscow and currently studying at the "Vybor" Private School, in the 7th grade and working as a private Computer Science teacher remotely.
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on [Medium](https://makarbaderko.medium.com/). 
+Apart from coding, I also maintain a Youtube Channel - you can find my videos [here](https://www.youtube.com/channel/UCzs8ZkLETDxh87w76uB-M4A). 
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
@@ -17,6 +17,7 @@ Apart from coding, I also maintain a blog - you can find my articles on [Medium]
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C#-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![](https://img.shields.io/badge/Library-tensorflow-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-Scikit-Learn-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Library-PyTorch-informational?style=flat&logo=%D0%A1++&logoColor=white&color=2bbc8a)
