@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Makar Baderko, I'm 13 years old and I'm a Data Scientist. I'm from Russia, living in Moscow and currently studying at the "Vybor" Private School, in the 7th grade and working as a private Computer Science teacher remotely.
+My name is Makar Baderko, I'm 14 years old and I'm a Data Scientist. I'm from Russia, living in Moscow and currently studying at the "Vybor" Private School, in the 8th grade and working as a private Computer Science teacher remotely.
 
 ## &#x270d; Blog & Writing
 
