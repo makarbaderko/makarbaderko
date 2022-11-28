@@ -33,15 +33,6 @@ Apart from coding, I also maintain a Youtube Channel - you can find my videos [h
 ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-## &#x1f4c8; GitHub Stats
-
-<a href="https://github.com/makarbaderko/makarbaderko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makarbaderko&hide=Java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/makarbaderko/makarbaderko">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=makarbaderko&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
-</a>
-
 
 ## Contact me
 
