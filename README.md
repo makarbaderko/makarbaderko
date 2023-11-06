@@ -1,10 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Makar Baderko, I'm 14 years old and I'm a Data Scientist. I'm from Russia, living in Moscow and currently studying at the "Vybor" Private School, in the 8th grade and working as a private Computer Science teacher remotely.
-
-## &#x270d; Blog & Writing
-
-Apart from coding, I also maintain a Youtube Channel - you can find my videos [here](https://www.youtube.com/channel/UCzs8ZkLETDxh87w76uB-M4A). 
+My name is Makar Baderko, I'm 15 years old and I'm a Data Scientist. I'm from Russia, live in Moscow and currently study at the "Vybor" Private School, in the 9th grade and working as a private Computer Science teacher remotely.
 
 ## 🔧 Technologies & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -36,4 +32,4 @@ Apart from coding, I also maintain a Youtube Channel - you can find my videos [h
 
 ## Contact me
 
-You can find me on [WhatsApp](https://api.whatsapp.com/send/?phone=79853462382&text&app_absent=0), or on [Telegram](https://t.me/makarbaderko).
+You can find me on [Telegram](https://t.me/makarbaderko).
