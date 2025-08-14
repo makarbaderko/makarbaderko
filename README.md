@@ -1,6 +1,6 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Makar Baderko, and I'm a Data Scientist. More info about me can be found [here](www.makarbaderko.com)
+My name is Makar Baderko, and I'm a Data Scientist. More info about me can be found [here](www.makarbaderko.com).
 
 ## 🔧 Technologies & Tools
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
